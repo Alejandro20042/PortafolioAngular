@@ -44,3 +44,4 @@ C:\Users\cd20\Desktop\Portafolio_ASA\PortafolioASA\obj\Debug\net7.0\refint\Porta
 C:\Users\cd20\Desktop\Portafolio_ASA\PortafolioASA\obj\Debug\net7.0\PortafolioASA.pdb
 C:\Users\cd20\Desktop\Portafolio_ASA\PortafolioASA\obj\Debug\net7.0\PortafolioASA.genruntimeconfig.cache
 C:\Users\cd20\Desktop\Portafolio_ASA\PortafolioASA\obj\Debug\net7.0\ref\PortafolioASA.dll
+C:\Users\cd20\Desktop\Portafolio_ASA\PortafolioASA\bin\Debug\net7.0\package-lock.json

@@ -13,12 +13,16 @@ namespace PortafolioASA.Models
         [BsonElement("nombre")]
         public string Nombre {get;set;} = string.Empty;
 
-        [BsonElement("Edad")]
-        public int Edad {get; set;}
-        [BsonElement("Telefono")]
+        [BsonElement("edad")]
+        public string Edad {get; set;} = string.Empty;
+
+        [BsonElement("telefono")] 
         public string Telefono {get; set;} = string.Empty;
 
-        [BsonElement("Correo")]
+        [BsonElement("descripcion")]
+        public string Descripcion {get; set;} = string.Empty;
+
+        [BsonElement("correo")]
          public string Correo {get; set;} = string.Empty;
 
     }
