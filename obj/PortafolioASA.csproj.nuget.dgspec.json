@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj": {}
+    "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj": {
+    "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
+        "projectUniqueName": "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
         "projectName": "PortafolioASA",
-        "projectPath": "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
+        "projectPath": "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
         "packagesPath": "C:\\Users\\cd20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\obj\\",
+        "outputPath": "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

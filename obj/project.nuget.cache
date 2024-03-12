@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMy40AUfU/R9I8TDyCkEN9mRv0seURgWISDTTpNxJwCTRvAwJjcMxxPM5Ql5OtgvYE4ok+edEmmUIvg/9ziRAg==",
+  "dgSpecHash": "Od0w8Us9iI928SJsNmI5b3ubHXfKeug/LKVHuwzk1Bf5Z5NTOR3xHwam5FYXcH2n0nK/aFsjPBKn5u94vGMsXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cd20\\Desktop\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
+  "projectFilePath": "C:\\Users\\cd20\\Desktop\\Nueva carpeta (6)\\Portafolio_ASA\\Portafolio_ASA\\PortafolioASA\\PortafolioASA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cd20\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\cd20\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
